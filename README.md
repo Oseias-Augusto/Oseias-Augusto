@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href:"https://github.com/Oseias-Augusto">
-  <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&hide=prs,issues&show_icons=true&bg_color=3C2C2C&title_color=BD6A6A&text_color=7D6565&icon_color=BD6A6A"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&layout=compact&langs_count=16&bg_color=3C2C2C&title_color=BD6A6A&text_color=7D6565&icon_color=BD6A6A"/>
+  <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&hide=prs,issues&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&layout=compact&langs_count=16&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000"/>
 <br>
 </div>
 
@@ -19,7 +19,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Oséias-Pikachu" whidth="100" height="140" src="./Victini.gif">
+  <img align="right" alt="Oséias-Victini" whidth="100" height="150" src="./Victini.gif">
 </div>
 
 ##
