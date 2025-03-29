@@ -7,7 +7,7 @@
   Sou um humilde otario que gosta de criar e aprender, por quê? Sei lá, isso apenas o tempo dirá.
 </p>
 
-<div>
+<div align="center">
   <a href:"https://github.com/Oseias-Augusto">
   <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&hide=prs,issues&show_icons=true&bg_color=3C2C2C&title_color=BD6A6A&text_color=7D6565&icon_color=BD6A6A"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&layout=compact&langs_count=16&bg_color=3C2C2C&title_color=BD6A6A&text_color=7D6565&icon_color=BD6A6A"/>
