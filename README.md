@@ -9,8 +9,8 @@
 
 <div>
   <a href:"https://github.com/Oseias-Augusto">
-  <img  height="110em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&hide=prs,issues&show_icons=true&bg_color=3C2C2C&title_color=BD6A6A&text_color=7D6565&icon_color=BD6A6A"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&layout=compact&langs_count=16&bg_color=3C2C2C&title_color=BD6A6A&text_color=7D6565&icon_color=BD6A6A"/>
+  <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&hide=prs,issues&show_icons=true&bg_color=3C2C2C&title_color=BD6A6A&text_color=7D6565&icon_color=BD6A6A"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&layout=compact&langs_count=16&bg_color=3C2C2C&title_color=BD6A6A&text_color=7D6565&icon_color=BD6A6A"/>
 <br>
 </div>
 
