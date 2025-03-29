@@ -1,20 +1,23 @@
-<head>
-  <link src="https://github.com/user-attachments/assets/c8c3f518-f0d4-4a9c-a768-96bd2faf3542">
-</head>
+
 <body>
-<h1 align="center"> Opa, eu já vi você aqui? Se não, saiba que sou o <a href="https://www.linkedin.com/in/os%C3%A9ias-augusto-ferreira-de-paula-melo-4a011a357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Oséias</a> 
-</h1>
+  <div>
+    <link scr="">
+  </div>
+  <h1 align="center"> Opa, eu já vi você aqui? Se não, saiba que sou o <a href="https://www.linkedin.com/in/os%C3%A9ias-augusto-ferreira-de-paula-melo-4a011a357?    utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Oséias</a> 
+  </h1>
 
-<p align="center">
+  <p align="center">
   Sou um humilde otario que gosta de criar e aprender, por quê? Sei lá, isso apenas o tempo dirá.
-</p>
+  </p>
 
-<div align="center">
-  <a href:"https://github.com/Oseias-Augusto">
-  <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&hide=prs,issues&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&layout=compact&langs_count=16&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000"/>
-<br>
-</div>
+  <div align="center">
+    <a href:"https://github.com/Oseias-Augusto">
+    <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Oseias-              
+      Augusto&hide=prs,issues&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-
+      Augusto&layout=compact&langs_count=16&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000"/>
+    <br>
+  </div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
