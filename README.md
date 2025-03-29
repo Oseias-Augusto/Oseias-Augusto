@@ -1,4 +1,6 @@
-
+<head>
+  <link src="https://github.com/user-attachments/assets/c8c3f518-f0d4-4a9c-a768-96bd2faf3542">
+</head>
 <body>
 <h1 align="center"> Opa, eu já vi você aqui? Se não, saiba que sou o <a href="https://www.linkedin.com/in/os%C3%A9ias-augusto-ferreira-de-paula-melo-4a011a357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Oséias</a> 
 </h1>
