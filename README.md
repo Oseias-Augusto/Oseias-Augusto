@@ -12,7 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Oséias-Pikachu" whidth="100" height="100" src="./pikachu.gif">
+  <img align="up" alt="Oséias-Pikachu" whidth="100" height="100" src="./pikachu.gif">
 </div>
 
 ##
