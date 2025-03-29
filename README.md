@@ -1,8 +1,4 @@
 
-<body>
-  <div>
-    <link scr="">
-  </div>
   <h1 align="center"> 
     Opa, eu já vi você aqui? Se não, saiba que sou o 
     <a href="https://www.linkedin.com/in/os%C3%A9ias-augusto-ferreira-de-paula-melo-4a011a357?        
@@ -41,5 +37,3 @@
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
-</body>
