@@ -37,11 +37,7 @@
 <div align="center" valign="top">
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Oseias-Augusto&border=c24d06&stroke=c24d06&background=e7ca91&fire=c24d06&ring=c24d06&currStreakNum=000000&sideNums=000000&c000000urrStreakLabel=251f13&sideLabels=251f13&dates=251f13">
-  
-</div>
 
-<div>
-  
   <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg">
 
 </div>
