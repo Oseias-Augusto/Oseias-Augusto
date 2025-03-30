@@ -13,9 +13,9 @@
   
   <div align="center" valign="top">
 
-<img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000">
+<img heigt="120em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000">
 
-<img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000">
+<img heigt="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000">
 
   </div>
 
