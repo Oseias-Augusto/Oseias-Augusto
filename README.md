@@ -1,6 +1,8 @@
 
 
   <h1 align="center"> 
+
+  <img align="right" alt="Oséias-Victini" whidth="100" height="150" src="./Victini.gif">
     
 <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&letterSpacing=3px&duration=2500&pause=500&color=E7CA91&background=C24D06B9&center=true&vCenter=true&width=900&height=100&lines=Opa%2C+j%C3%A1+nos+vimos+antes%3F;Se+n%C3%A3o%2C+prazer%2C+sou+o+Os%C3%A9ias!;Um+simples+ot%C3%A1rio+;que+gosta+de+aprender+e+criar">
 
@@ -12,8 +14,6 @@
 <img heigt="100em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000">
 
 <img heigt="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000">
-
-<img align="right" alt="Oséias-Victini" whidth="100" height="150" src="./Victini.gif">
 
   </div>
 
