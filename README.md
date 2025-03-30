@@ -7,7 +7,6 @@
   </h1>
 <div>
   
-  <img align="right" alt="Oséias-Victini" whidth="100" height="150" src="./Victini.gif">
 
 </div>
   
