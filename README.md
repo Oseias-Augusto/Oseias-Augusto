@@ -1,21 +1,22 @@
 
+
   <h1 align="center"> 
-    Opa, eu já vi você aqui? Se não, saiba que sou o 
-    <a href="https://www.linkedin.com/in/os%C3%A9ias-augusto-ferreira-de-paula-melo-4a011a357?        
-    utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Oséias</a> 
+    
+<img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&letterSpacing=3px&pause=1000&color=E7CA91&background=251F13B9&center=true&vCenter=true&width=900&height=100&lines=Opa%2C+eu+j%C3%A1+vi++voc%C3%AA+aqui%3F;Se+n%C3%A3o%2C+saiba+que+sou+o+Os%C3%A9ias">
+    
   </h1>
 
   <p align="center">
-  Sou um humilde otario que gosta de criar e aprender, por quê? Sei lá, isso apenas o tempo dirá.
+<img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&weight=500&size=30&pause=1000&color=C24D06&background=F7E0AA&center=true&vCenter=true&width=435&lines=Sou+apenas+um+simples+ot%C3%A1rio;Mas+gosto+de+aprender+e+criar;Por+que%3F;Sei+l%C3%A1+isso++s%C3%B3+o+tempo+dir%C3%A1">
+  
   </p>
-
+  
   <div align="center">
-    <a href:"https://github.com/Oseias-Augusto">
-    <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Oseias-              
-      Augusto&hide=prs,issues&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-
-      Augusto&layout=compact&langs_count=16&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000"/>
-    <br>
+
+<img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=Oseias-Augusto&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000">
+
+<img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Augusto&show_icons=true&bg_color=e7ca91&title_color=000000&text_color=c24d06&icon_color=000000">
+
   </div>
 
 <div align="center" valign="top"><br>
