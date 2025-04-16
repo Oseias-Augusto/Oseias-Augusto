@@ -32,9 +32,4 @@
   <a href="https://www.linkedin.com/in/os%C3%A9ias-augusto-ferreira-de-paula-melo-4a011a357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center" valign="top">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Oseias-Augusto&border=c24d06&stroke=c24d06&background=e7ca91&fire=c24d06&ring=c24d06&currStreakNum=000000&sideNums=000000&c000000urrStreakLabel=251f13&sideLabels=251f13&dates=251f13">
-
-</div>
 
